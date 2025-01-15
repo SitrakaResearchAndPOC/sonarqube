@@ -37,7 +37,6 @@ mkdir sample
 ```
 git clone https://github.com/pknowledge/sample.gi
 ```
-```
 Change : 
 ```
 sonar-scanner \
