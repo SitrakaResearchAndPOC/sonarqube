@@ -37,7 +37,7 @@ mkdir sample
 ```
 git clone https://github.com/pknowledge/sample.gi
 ```
-Change : 
+Change with REL TOKEN: 
 ```
 sonar-scanner \
   -Dsonar.projectKey=sample \
@@ -45,6 +45,7 @@ sonar-scanner \
   -Dsonar.host.url=http://localhost:9000 \
   -Dsonar.token=sqp_0ce28a37da7f2fd6c1dfcc901910eded3e3392e8
 ```
+CHANGE WITH REAL PATH
 ```
 /home/devsecops/Downloads/sonar-scanner-6.2.1.4610-linux-x64/bin/sonar-scanner \
   -Dsonar.projectKey=sample \
