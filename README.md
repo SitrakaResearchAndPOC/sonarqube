@@ -15,7 +15,6 @@ docker ps
 http://localhost:9000
 ```
 ```
-```
 Username: admin
 Password: admin
 ```
